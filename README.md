@@ -5,3 +5,5 @@ In this system, you can have information such as information about professors, s
 This project is written in Python, and its code-first approach makes it much smoother and easier to create its database structure.
 In this project, SQLite 3 and SQL Alchemy were used to design the database structure.
 This project was created entirely individually and its credits are in my possession.
+
+The complete content of the program code is in the main file and its sample databases are in the db file.
