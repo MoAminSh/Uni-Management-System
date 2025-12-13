@@ -1,4 +1,0 @@
-python-telegram-bot
-instaloader
-Flask
-gunicorn
