@@ -7,3 +7,20 @@ In this project, SQLite 3 and SQL Alchemy were used to design the database struc
 This project was created entirely individually and its credits are in my possession.
 
 The complete content of the program code is in the main file and its sample databases are in the db file.
+
+Student Tab:
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/30dc1e44-b60b-475a-94df-33301c27bc38" />
+
+Teacher Tab
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/19429ec1-ee29-4cef-b153-2e9374157d33" />
+
+Lessons Tab:
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/50d44219-6a4d-4c5a-b826-309d42b30ac6" />
+
+Presentation Tab:
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/0adfe53e-09fb-4bf4-997d-41c86cbeffd7" />
+
+Student Selection:
+<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/643c102f-b2b9-44bc-82a0-30565106cef5" />
+
+Student Score & Rank:
